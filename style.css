@@ -1,0 +1,116 @@
+#section_1{
+    background: url("Indian-Freedom-Fighters_1400x600.jpg");
+    background-size: cover;
+    
+    width:100%;
+    height:600px;
+    margin:0px;
+}
+body{
+    background:linear-gradient(to right ,orange,white,green);
+}
+h1{
+   position:absolute;
+   margin-top: 350px;
+   margin-left: 760px;
+   font-family: 'Lobster', cursive;
+   font-size: 75px;
+   color:linear-gradient("to right, orange,white, green");
+}
+p{
+    font-size:25px;
+}
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center
+  }
+  .image {
+    flex-basis: 40%
+    
+  }
+  
+  .text {
+    font-size: 20px;
+    padding-left: 20px;
+  }
+  h2{
+    font-family: 'Cinzel', serif;
+    font-weight: bold;
+  }
+  p{font-family: 'Fredoka One', cursive;
+}
+#cele{
+    font-family: 'Cinzel', serif;
+color:blue;
+}
+.celebrated{
+    width:500px;
+    height: 350px;
+    opacity: 0.7;
+    background: url("download.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    justify-items: center;
+    float:left;
+}
+.celebrated2{
+    width:500px;
+    margin-left: 50%;
+    height: 350px;
+    opacity: 0.7;
+    background: url("919359-modi-flag.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    justify-items: center;
+}
+.celebrated2 button{
+    position: absolute;
+    font-family: 'Ultra', serif;
+
+    margin-top: 205px;
+    margin-left: 15%;
+    border-radius: 20px;
+}
+.ambaniimg{
+    height:300px;
+    width:350px;
+}
+.img{
+    height:400px;
+    width:450px;
+}
+.celebrated2 h4{
+   
+    position: absolute;
+    margin-top: 175px;
+    font-family: 'Ultra', serif;
+    color:darkblue;
+    margin-left: 80px;
+    
+}
+.celebrated h4{
+   
+    position: absolute;
+    margin-top: 175px;
+    font-family: 'Ultra', serif;
+    color:darkblue;
+    margin-left: 80px;
+    
+}
+.my_nav_bar{
+    background-color:peru;
+    font-family:'Fredoka One', cursive;
+    color:white;
+}
+.celebrated button{
+    position: absolute;
+    font-family: 'Ultra', serif;
+
+    margin-top: 205px;
+    margin-left: 15%;
+    border-radius: 20px;
+}
+.celebrated button:hover{
+background-color: darkgreen;
+}
